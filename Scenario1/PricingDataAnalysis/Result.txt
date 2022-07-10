@@ -1,0 +1,23 @@
+Average price
+
+Corning, Inc. (GLW US): 22,57
+GrubHub, Inc. (GRUB US): 40,38
+
+Max price
+
+Corning, Inc. (GLW US): 25,00
+GrubHub, Inc. (GRUB US): 47,18
+
+Min price
+
+Corning, Inc. (GLW US): 19,70
+GrubHub, Inc. (GRUB US): 33,31
+
+Most significant positive price spike
+
+Corning, Inc. (GLW US): 0,82 (Jan 27, 2015)
+Return on investment: 0,16 (Jan 01, 2015 - Jan 27, 2015)
+
+GrubHub, Inc. (GRUB US): 2,33 (Feb 05, 2015)
+Return on investment: 0,18 (Jan 01, 2015 - Feb 05, 2015)
+

@@ -1,0 +1,688 @@
+﻿++Solution 'PortfolioBi.PricingDataAnalysis.Bll.WebApi' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBi.PricingDataAnalysis.Bll.WebApi.sln
+++PortfolioBi.Client.Db.PricingDataAnalysis
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBi.Client.Db.PricingDataAnalysis
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\portfoliobi.client.db.pricingdataanalysis.csproj
+++Dependencies
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:>70
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:>162
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:>71
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:>72
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:>119
+i:{72326266-8994-4d12-adf4-69edc5218932}:>127
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:>120
+++Controllers
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\controllers\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\controllers\
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.base\controllers\
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\controllers\
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.base\controllers\
+++Ef
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\ef\
+++Settings
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\settings\
+++DalSetting.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\settings\dalsetting.cs
+++DalUnitOfWork.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\dalunitofwork.cs
+++DalUnitOfWork.Queries.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\dalunitofwork.queries.cs
+++DalUnitOfWorkContext.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\dalunitofworkcontext.cs
+++Analyzers
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:analyzers
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:analyzers
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:analyzers
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:analyzers
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:analyzers
+i:{72326266-8994-4d12-adf4-69edc5218932}:analyzers
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:analyzers
+++Frameworks
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:frameworks
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:frameworks
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:frameworks
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:frameworks
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:frameworks
+i:{72326266-8994-4d12-adf4-69edc5218932}:frameworks
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:frameworks
+++Packages
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:packages
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:packages
+++Projects
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:projects
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:projects
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:projects
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:projects
+i:{72326266-8994-4d12-adf4-69edc5218932}:projects
+++Base
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\controllers\base\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\controllers\base\
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.base\controllers\base\
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\controllers\base\
+++PricingDataAnalysisDbContext.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\ef\pricingdataanalysisdbcontext.cs
+++PricingDataAnalysisDbContext.Partial.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\ef\pricingdataanalysisdbcontext.partial.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\microsoft.netcore.app
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\microsoft.netcore.app
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.base\microsoft.netcore.app
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\microsoft.netcore.app
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\microsoft.netcore.app
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.base\microsoft.netcore.app
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:>193
+++PortfolioBi.Client.Db.PricingDataAnalysis.Base
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.base\portfoliobi.client.db.pricingdataanalysis.base.csproj
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBi.Client.Db.PricingDataAnalysis.Base
+++BaseDbDalController.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\controllers\base\basedbdalcontroller.cs
+++BaseDbDalControllers.cs
+i:{aff205fd-ca6d-4bab-b84d-e978102b60ad}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis\controllers\base\basedbdalcontrollers.cs
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBi.PricingDataAnalysis.Bll.WebApi
+++Connected Services 
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:>163
+++Properties
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\properties\
+++launchSettings.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\properties\launchsettings.json
+++CaseStudyController.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\controllers\casestudycontroller.cs
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\controllers\casestudycontroller.cs
+++HomeController.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\controllers\homecontroller.cs
+++appsettings.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\appsettings.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\appsettings.json
+++Program.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\program.cs
+++Startup.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\startup.cs
+++No service dependencies discovered
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:>164
+++BaseController.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\controllers\base\basecontroller.cs
+++appsettings.Development.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\appsettings.development.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\microsoft.aspnetcore.app
+++PortfolioBI.PricingDataAnalysis.Bll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\portfoliobi.pricingdataanalysis.bll.csproj
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBI.PricingDataAnalysis.Bll
+++IPricingDataAnalysisDalUnitOfWork.Queries.cs
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.base\ipricingdataanalysisdalunitofwork.queries.cs
+++PortfolioBi.Client.Db.PricingDataAnalysis.Models
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\portfoliobi.client.db.pricingdataanalysis.models.csproj
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBi.Client.Db.PricingDataAnalysis.Models
+++IQueryDalController.cs
+i:{d5b35ef2-2bba-4d0e-afdc-8197cd62e4f5}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.base\controllers\base\iquerydalcontroller.cs
+++Models
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\models\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\models\
+++AvgPrice.cs
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\models\avgprice.cs
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\casestudy\avgprice.cs
+++LocalMaxPrice.cs
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\models\localmaxprice.cs
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\casestudy\localmaxprice.cs
+++MaxPrice.cs
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\models\maxprice.cs
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\casestudy\maxprice.cs
+++MinPrice.cs
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\models\minprice.cs
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\casestudy\minprice.cs
+++ReturnOnInvestment.cs
+i:{d763d25b-dca9-409b-8b57-5056e568fce2}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\client.db\pricingdataanalysis.models\models\returnoninvestment.cs
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\casestudy\returnoninvestment.cs
+++BllUnitOfWork.cs
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\bllunitofwork.cs
+++BllUnitOfWorkContext.cs
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\bllunitofworkcontext.cs
+++System.Data.SqlClient (4.8.3)
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:>191
+++PortfolioBi.PricingDataAnalysis.Bll.Base
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.base\portfoliobi.pricingdataanalysis.bll.base.csproj
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBi.PricingDataAnalysis.Bll.Base
+++BaseBllController.cs
+i:{86937e5d-35ff-4ba1-ab85-02bd12eb05b0}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll\controllers\base\basebllcontroller.cs
+++IBllUnitOfWork.cs
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.base\ibllunitofwork.cs
+++ICaseStudyBllController.cs
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.base\controllers\icasestudybllcontroller.cs
+++PortfolioBi.PricingDataAnalysis.Bll.Models
+i:{72326266-8994-4d12-adf4-69edc5218932}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\portfoliobi.pricingdataanalysis.bll.models.csproj
+i:{00000000-0000-0000-0000-000000000000}:PortfolioBi.PricingDataAnalysis.Bll.Models
+++CaseStudy
+i:{912813b2-7825-4b13-becc-9e19f9aa0d34}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.models\casestudy\
+++Models.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\models\models.cs
+++bin
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\
+++Debug
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\
+++net6.0
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\
+++runtimes
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\
+++Microsoft.Data.SqlClient.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Identity.Client.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++PortfolioBi.Client.Db.PricingDataAnalysis.Base.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.client.db.pricingdataanalysis.base.dll
+++PortfolioBi.Client.Db.PricingDataAnalysis.Base.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.client.db.pricingdataanalysis.base.pdb
+++PortfolioBi.Client.Db.PricingDataAnalysis.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.client.db.pricingdataanalysis.dll
+++PortfolioBi.Client.Db.PricingDataAnalysis.Models.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.client.db.pricingdataanalysis.models.dll
+++PortfolioBi.Client.Db.PricingDataAnalysis.Models.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.client.db.pricingdataanalysis.models.pdb
+++PortfolioBi.Client.Db.PricingDataAnalysis.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.client.db.pricingdataanalysis.pdb
+++PortfolioBi.PricingDataAnalysis.Bll.Base.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.base.dll
+++PortfolioBi.PricingDataAnalysis.Bll.Base.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.base.pdb
+++PortfolioBI.PricingDataAnalysis.Bll.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.dll
+++PortfolioBi.PricingDataAnalysis.Bll.Models.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.models.dll
+++PortfolioBi.PricingDataAnalysis.Bll.Models.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.models.pdb
+++PortfolioBI.PricingDataAnalysis.Bll.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.pdb
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.deps.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.deps.json
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\ref\portfoliobi.pricingdataanalysis.bll.webapi.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\refint\portfoliobi.pricingdataanalysis.bll.webapi.dll
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.exe
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.exe
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.pdb
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.pdb
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.runtimeconfig.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.runtimeconfig.json
+++System.Configuration.ConfigurationManager.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Data.SqlClient.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.data.sqlclient.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp2.1\system.data.sqlclient.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp2.1\system.data.sqlclient.dll
+++System.Drawing.Common.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.drawing.common.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.runtime.caching.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\system.windows.extensions.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++unix
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\
+++win
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x86\
+++lib
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\lib\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\
+++native
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-arm\native\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x64\native\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x86\native\
+++netcoreapp2.1
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp2.1\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp2.1\
+++netcoreapp3.0
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++sni.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-arm64\native\sni.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x64\native\sni.dll
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\bin\debug\net6.0\runtimes\win-x86\native\sni.dll
+++obj
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.nuget.dgspec.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\portfoliobi.pricingdataanalysis.bll.webapi.csproj.nuget.dgspec.json
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.nuget.g.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\portfoliobi.pricingdataanalysis.bll.webapi.csproj.nuget.g.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\portfoliobi.pricingdataanalysis.bll.webapi.csproj.nuget.g.props
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.nuget.g.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\portfoliobi.pricingdataanalysis.bll.webapi.csproj.nuget.g.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\portfoliobi.pricingdataanalysis.bll.webapi.csproj.nuget.g.targets
+++project.assets.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\project.assets.json
+++project.nuget.cache
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\staticwebassets.pack.sentinel
+++ref
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\ref\
+++refint
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\refint\
+++staticwebassets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\apphost.exe
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.AssemblyInfo.cs
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.assemblyinfo.cs
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.AssemblyInfoInputs.cache
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.assemblyinfoinputs.cache
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.assets.cache
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.assets.cache
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.AssemblyReference.cache
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.csproj.assemblyreference.cache
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.BuildWithSkipAnalyzers
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.csproj.buildwithskipanalyzers
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.CopyComplete
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.csproj.copycomplete
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.CoreCompileInputs.cache
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.csproj.corecompileinputs.cache
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.FileListAbsolute.txt
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.csproj.filelistabsolute.txt
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.generatedmsbuildeditorconfig.editorconfig
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.genruntimeconfig.cache
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.genruntimeconfig.cache
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.MvcApplicationPartsAssemblyInfo.cache
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\portfoliobi.pricingdataanalysis.bll.webapi.mvcapplicationpartsassemblyinfo.cache
+++staticwebassets.build.json
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\obj\debug\net6.0\staticwebassets.build.json
+++Imports
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:>1031
+++Sdk.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Microsoft.Common.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Microsoft.NuGet.ImportBefore.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.NuGet.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++PortfolioBi.PricingDataAnalysis.Bll.WebApi.csproj.user
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\users\katarina.p.knezevic\desktop\version1_08.07.2022\pricingdataanalysis\bll.webapi\portfoliobi.pricingdataanalysis.bll.webapi.csproj.user
+++Microsoft.NET.props
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++Microsoft.DesktopBridge.Common.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{e7d39009-7759-48ae-b821-46a49d3ee565}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioBi.Client.WebApi.PricingDataAnalysis", "..\Client.WebApi\PricingDataAnalysis.Bll\PortfolioBi.Client.WebApi.PricingDataAnalysis.csproj", "{7A4D8CD9-7887-4F1F-B33F-9CED96DB8CFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioBi.Client.WebApi.PricingDataAnalysis.Base", "..\Client.WebApi\PricingDataAnalysis.Bll.Base\PortfolioBi.Client.WebApi.PricingDataAnalysis.Base.csproj", "{A7ED6EF8-2AD5-4D1E-8B56-A0D7C1736BFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioBi.Client.WebApi.PricingDataAnalysis.Models", "..\Client.WebApi\PricingDataAnalysis.Bll.Models\PortfolioBi.Client.WebApi.PricingDataAnalysis.Models.csproj", "{4AD87FB6-F9AF-4D5A-BC7C-19FA761B7092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioBi.PricingDataAnalysis.BllClient", "BllClient\PortfolioBi.PricingDataAnalysis.BllClient.csproj", "{31C54F03-C987-49D8-AECF-B6A5A56957C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioBI.PricingDataAnalysis.BllClient.Base", "BllClient.Base\PortfolioBI.PricingDataAnalysis.BllClient.Base.csproj", "{3324AF7F-DC21-411C-B17D-30955CE33A60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioBi.PricingDataAnalysis.Bll.MyConsoleApp", "Bll.MyConsoleApp\PortfolioBi.PricingDataAnalysis.Bll.MyConsoleApp.csproj", "{3C429C49-478E-45E7-BF01-AB4771E59CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4D8CD9-7887-4F1F-B33F-9CED96DB8CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4D8CD9-7887-4F1F-B33F-9CED96DB8CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4D8CD9-7887-4F1F-B33F-9CED96DB8CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4D8CD9-7887-4F1F-B33F-9CED96DB8CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7ED6EF8-2AD5-4D1E-8B56-A0D7C1736BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7ED6EF8-2AD5-4D1E-8B56-A0D7C1736BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7ED6EF8-2AD5-4D1E-8B56-A0D7C1736BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7ED6EF8-2AD5-4D1E-8B56-A0D7C1736BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD87FB6-F9AF-4D5A-BC7C-19FA761B7092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD87FB6-F9AF-4D5A-BC7C-19FA761B7092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD87FB6-F9AF-4D5A-BC7C-19FA761B7092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD87FB6-F9AF-4D5A-BC7C-19FA761B7092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C54F03-C987-49D8-AECF-B6A5A56957C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C54F03-C987-49D8-AECF-B6A5A56957C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C54F03-C987-49D8-AECF-B6A5A56957C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C54F03-C987-49D8-AECF-B6A5A56957C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3324AF7F-DC21-411C-B17D-30955CE33A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3324AF7F-DC21-411C-B17D-30955CE33A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3324AF7F-DC21-411C-B17D-30955CE33A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3324AF7F-DC21-411C-B17D-30955CE33A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C429C49-478E-45E7-BF01-AB4771E59CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C429C49-478E-45E7-BF01-AB4771E59CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C429C49-478E-45E7-BF01-AB4771E59CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C429C49-478E-45E7-BF01-AB4771E59CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07CDAB8A-709A-4738-A389-5671932EE806}
+	EndGlobalSection
+EndGlobal

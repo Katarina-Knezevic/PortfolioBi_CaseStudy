@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <ProjectReference Include="..\..\Client.WebApi\PricingDataAnalysis.Bll\PortfolioBi.Client.WebApi.PricingDataAnalysis.csproj" />
+	  <ProjectReference Include="..\BllClient.Base\PortfolioBI.PricingDataAnalysis.BllClient.Base.csproj" />
+  </ItemGroup>
+
+  
+</Project>
